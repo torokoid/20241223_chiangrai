@@ -149,10 +149,14 @@ p.note { display: none; }
 <a href="20241223_012.JPG" target="_blank"><img src="20241223_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_013.JPG" target="_blank"><img src="20241223_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_014.JPG" target="_blank"><img src="20241223_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2024Dec04 月と金星が夕焼け空でランデブー</span></h2>
 <a href="20241223_015.JPG" target="_blank"><img src="20241223_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_016.JPG" target="_blank"><img src="20241223_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_017.JPG" target="_blank"><img src="20241223_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_018.JPG" target="_blank"><img src="20241223_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2024Dec05 月と金星の位置が1日で逆転しました</span></h2>
 <a href="20241223_019.JPG" target="_blank"><img src="20241223_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_020.JPG" target="_blank"><img src="20241223_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_021.JPG" target="_blank"><img src="20241223_021.JPG" alt="サンプル画像" width="900" /></a>
@@ -177,6 +181,8 @@ p.note { display: none; }
 <a href="20241223_040.JPG" target="_blank"><img src="20241223_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_041.JPG" target="_blank"><img src="20241223_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_042.JPG" target="_blank"><img src="20241223_042.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">オレンジからブルーへのグラデーションが見事でした</span></h2>
 <a href="20241223_043.JPG" target="_blank"><img src="20241223_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_044.JPG" target="_blank"><img src="20241223_044.JPG" alt="サンプル画像" width="900" /></a>
 
