@@ -130,12 +130,55 @@ p.note { display: none; }
 
 <h2><span class="yellow">空画像収録エリアはこの辺り<br>GoogleMapsをそのまま埋め込みましたので、うまく使えば地図が開きます</span></h2>
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1734436825936!6m8!1m7!1spf8h3giBO4xmdw814CQNDQ!2m2!1d19.97917084087386!2d99.8600927728914!3f153.8335840194333!4f8.031007255462725!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1734924148547!6m8!1m7!1sPjZmHOJn5rzr_HfqKi8Vtw!2m2!1d20.18138834827905!2d99.88156993877841!3f219.00076557255397!4f3.9813049621905776!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<h2><span class="yellow">日本のホームセンターを巨大にしたようなお店でした</span></h2>
+<h2><span class="yellow">入道雲と夕焼けの発色が見事です</span></h2>
 
-
+<a href="20241223_1.JPG" target="_blank"><img src="20241223_1.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_2.JPG" target="_blank"><img src="20241223_2.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_3.JPG" target="_blank"><img src="20241223_3.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_4.JPG" target="_blank"><img src="20241223_4.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_5.JPG" target="_blank"><img src="20241223_5.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_6.JPG" target="_blank"><img src="20241223_6.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_7.JPG" target="_blank"><img src="20241223_7.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_8.JPG" target="_blank"><img src="20241223_8.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_9.JPG" target="_blank"><img src="20241223_9.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_10.JPG" target="_blank"><img src="20241223_10.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_11.JPG" target="_blank"><img src="20241223_11.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_12.JPG" target="_blank"><img src="20241223_12.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_13.JPG" target="_blank"><img src="20241223_13.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_14.JPG" target="_blank"><img src="20241223_14.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_15.JPG" target="_blank"><img src="20241223_15.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_16.JPG" target="_blank"><img src="20241223_16.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_17.JPG" target="_blank"><img src="20241223_17.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_18.JPG" target="_blank"><img src="20241223_18.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_19.JPG" target="_blank"><img src="20241223_19.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_20.JPG" target="_blank"><img src="20241223_20.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_21.JPG" target="_blank"><img src="20241223_21.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_22.JPG" target="_blank"><img src="20241223_22.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_23.JPG" target="_blank"><img src="20241223_23.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_24.JPG" target="_blank"><img src="20241223_24.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_25.JPG" target="_blank"><img src="20241223_25.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_26.JPG" target="_blank"><img src="20241223_26.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_27.JPG" target="_blank"><img src="20241223_27.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_28.JPG" target="_blank"><img src="20241223_28.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_29.JPG" target="_blank"><img src="20241223_29.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_30.JPG" target="_blank"><img src="20241223_30.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_31.JPG" target="_blank"><img src="20241223_31.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_32.JPG" target="_blank"><img src="20241223_32.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_33.JPG" target="_blank"><img src="20241223_33.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_34.JPG" target="_blank"><img src="20241223_34.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_35.JPG" target="_blank"><img src="20241223_35.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_36.JPG" target="_blank"><img src="20241223_36.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_37.JPG" target="_blank"><img src="20241223_37.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_38.JPG" target="_blank"><img src="20241223_38.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_39.JPG" target="_blank"><img src="20241223_39.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_40.JPG" target="_blank"><img src="20241223_40.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_41.JPG" target="_blank"><img src="20241223_41.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_42.JPG" target="_blank"><img src="20241223_42.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_43.JPG" target="_blank"><img src="20241223_43.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241223_44.JPG" target="_blank"><img src="20241223_44.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
