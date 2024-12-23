@@ -177,12 +177,12 @@ p.note { display: none; }
 <a href="20241223_036.JPG" target="_blank"><img src="20241223_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_037.JPG" target="_blank"><img src="20241223_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_038.JPG" target="_blank"><img src="20241223_038.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">オレンジからブルーへのグラデーションが見事でした<br>木の上には一番星の金星</span></h2>
 <a href="20241223_039.JPG" target="_blank"><img src="20241223_039.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_040.JPG" target="_blank"><img src="20241223_040.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_041.JPG" target="_blank"><img src="20241223_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_042.JPG" target="_blank"><img src="20241223_042.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">オレンジからブルーへのグラデーションが見事でした</span></h2>
 <a href="20241223_043.JPG" target="_blank"><img src="20241223_043.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_044.JPG" target="_blank"><img src="20241223_044.JPG" alt="サンプル画像" width="900" /></a>
 
