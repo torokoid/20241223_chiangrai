@@ -133,7 +133,7 @@ p.note { display: none; }
 <iframe src="https://www.google.com/maps/embed?pb=!4v1734924148547!6m8!1m7!1sPjZmHOJn5rzr_HfqKi8Vtw!2m2!1d20.18138834827905!2d99.88156993877841!3f219.00076557255397!4f3.9813049621905776!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<h2><span class="yellow">入道雲と夕焼けの発色が見事です</span></h2>
+<h2><span class="yellow">南国の夕焼けの発色や、入道雲が見事です</span></h2>
 
 <a href="20241223_001.JPG" target="_blank"><img src="20241223_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241223_002.JPG" target="_blank"><img src="20241223_002.JPG" alt="サンプル画像" width="900" /></a>
